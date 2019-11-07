@@ -1,0 +1,14 @@
+Package: mytools
+Title: My Utilities Package
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Danica",
+           family = "Schaffer-Smith",
+           role = c("aut", "cre"),
+           email = "dschaffersmith@gmail.com",
+           comment = c(ORCID = "https://orcid.org/0000-0003-3896-1483"))
+Description: This is a utility package for conversion of temperatures.
+License: Apache License (>= 2.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
